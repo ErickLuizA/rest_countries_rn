@@ -135,6 +135,7 @@ const styles = StyleSheet.create({
   },
 
   languageCard: {
-    padding: 4
+    padding: 4,
+    marginBottom: 4
   }
 })

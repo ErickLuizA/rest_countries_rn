@@ -34,20 +34,26 @@ export function CountriesList({ search, filter }: ICountriesListProps) {
   }
 
   return (
-    <FlatList
-      ItemSeparatorComponent={() => <View style={styles.separator} />}
-      data={data?.countries}
-      getItemLayout={(_, index) => ({
-        index,
-        length: 100,
-        offset: 100 * index
-      })}
-      renderItem={renderItem}
-    />
+    <View style={styles.container}>
+      <FlatList
+        ItemSeparatorComponent={() => <View style={styles.separator} />}
+        data={data?.countries}
+        getItemLayout={(_, index) => ({
+          index,
+          length: 100,
+          offset: 100 * index
+        })}
+        renderItem={renderItem}
+      />
+    </View>
   )
 }
 
 const styles = StyleSheet.create({
+  container: {
+    flex: 1
+  },
+
   separator: {
     height: 10
   }
