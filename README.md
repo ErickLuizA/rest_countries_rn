@@ -1,7 +1,7 @@
-<h1 align="center"> rest_countries_rn </h1>
+<h1 align="center"> rn-graphql-countries </h1>
 
 <p align="center">
-  <a href="https://github.com/ErickLuizA/rest_countries_rn/graphs/commit-activity" alt="Maintenance">
+  <a href="https://github.com/ErickLuizA/rn-graphql-countries/graphs/commit-activity" alt="Maintenance">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-1EAE72.svg" />
   </a>
 
@@ -11,12 +11,12 @@
 
 <br/>
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickLuizA/rest_countries_rn?color=blue">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickLuizA/rn-graphql-countries?color=blue">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ErickLuizA/rest_countries_rn">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ErickLuizA/rn-graphql-countries">
 
-<a href="https://github.com/ErickLuizA/rest_countries_rn/stargazers">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ErickLuizA/rest_countries_rn?style=social">
+<a href="https://github.com/ErickLuizA/rn-graphql-countries/stargazers">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ErickLuizA/rn-graphql-countries?style=social">
 </a>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## :clipboard: Description
 
-rest_countries_rn is a react native app inspired by this [frontendmentor challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
+rn-graphql-countries is a react native app inspired by this [frontendmentor challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 
 ## :building_construction: Technologies
 
@@ -45,17 +45,17 @@ rest_countries_rn is a react native app inspired by this [frontendmentor challen
 
 ```shell
  # With git
- $ git clone https://github.com/ErickLuizA/rest_countries_rn.git
+ $ git clone https://github.com/ErickLuizA/rn-graphql-countries.git
 
  # With github cli
- $ gh repo clone ErickLuizA/rest_countries_rn
+ $ gh repo clone ErickLuizA/rn-graphql-countries
 ```
 
 ## 2. Installation
 
 ```shell
 # Go into the repository
-$ cd rest_countries_rn
+$ cd rn-graphql-countries
 ```
 
 ```shell
@@ -72,11 +72,11 @@ $ npm start or yarn start
 ## :framed_picture: Screenshots
 
 <div>
-  <img alt="rest_countries_rn screenshot" src="./.github/home.png"  width="200"/>
-  <img alt="rest_countries_rn screenshot" src="./.github/filter.png"  width="200"/>
-  <img alt="rest_countries_rn screenshot" src="./.github/search.png"  width="200"/>
-  <img alt="rest_countries_rn screenshot" src="./.github/details.png"  width="200"/>
-  <img alt="rest_countries_rn screenshot" src="./.github/light-theme.png"  width="200"/>
+  <img alt="rn-graphql-countries screenshot" src="./.github/home.png"  width="200"/>
+  <img alt="rn-graphql-countries screenshot" src="./.github/filter.png"  width="200"/>
+  <img alt="rn-graphql-countries screenshot" src="./.github/search.png"  width="200"/>
+  <img alt="rn-graphql-countries screenshot" src="./.github/details.png"  width="200"/>
+  <img alt="rn-graphql-countries screenshot" src="./.github/light-theme.png"  width="200"/>
 </div>
 
 ## :memo: License
